@@ -1,0 +1,10 @@
+C:\Users\matjutla.lebeya_za.g\Downloads\fastidiously.organize\bin\Debug\netcoreapp3.1\fastidiously.organize.deps.json
+C:\Users\matjutla.lebeya_za.g\Downloads\fastidiously.organize\bin\Debug\netcoreapp3.1\fastidiously.organize.dll
+C:\Users\matjutla.lebeya_za.g\Downloads\fastidiously.organize\bin\Debug\netcoreapp3.1\fastidiously.organize.pdb
+C:\Users\matjutla.lebeya_za.g\Downloads\fastidiously.organize\obj\Debug\netcoreapp3.1\fastidiously.organize.csproj.AssemblyReference.cache
+C:\Users\matjutla.lebeya_za.g\Downloads\fastidiously.organize\obj\Debug\netcoreapp3.1\fastidiously.organize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matjutla.lebeya_za.g\Downloads\fastidiously.organize\obj\Debug\netcoreapp3.1\fastidiously.organize.AssemblyInfoInputs.cache
+C:\Users\matjutla.lebeya_za.g\Downloads\fastidiously.organize\obj\Debug\netcoreapp3.1\fastidiously.organize.AssemblyInfo.cs
+C:\Users\matjutla.lebeya_za.g\Downloads\fastidiously.organize\obj\Debug\netcoreapp3.1\fastidiously.organize.csproj.CoreCompileInputs.cache
+C:\Users\matjutla.lebeya_za.g\Downloads\fastidiously.organize\obj\Debug\netcoreapp3.1\fastidiously.organize.dll
+C:\Users\matjutla.lebeya_za.g\Downloads\fastidiously.organize\obj\Debug\netcoreapp3.1\fastidiously.organize.pdb
